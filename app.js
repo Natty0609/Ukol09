@@ -6,6 +6,3 @@ karticky.forEach(karta => {
 
     })
 });
-
-
-// karticky[0].classList.remove('otocena')
